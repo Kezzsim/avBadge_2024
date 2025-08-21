@@ -6,7 +6,7 @@
 #include <QTimer>
 #include "rgbleds.h"
 
-#define MAXNUMMOVIES 5
+#define MAXNUMMOVIES 6
 
 namespace WingletUI {
 
@@ -86,13 +86,16 @@ void SimpleMediaPlayer::startMovie()
         movie = new QMovie(":/videos/Earth.gif");
         break;
     case 3:
-        movie = new QMovie(":/videos/volleyball.gif");
+        movie = new QMovie(":/videos/arukai.gif");
         break;
     case 4:
-        movie = new QMovie(":/videos/DarkStar.gif");
+        movie = new QMovie(":/videos/kemo.gif");
         break;
     case 5:
-        movie = new QMovie(":/videos/DBZ.gif");;
+        movie = new QMovie(":/videos/papapa.gif");;
+        break;
+    case 6:
+        movie = new QMovie(":/videos/yeensquare.gif");
         break;
     }
 

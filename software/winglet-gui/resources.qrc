@@ -42,12 +42,13 @@
         <file alias="unknown.png">assets/icons/batt/unknown.png</file>
     </qresource>
     <qresource prefix="/videos">
-        <file alias="DarkStar.gif">assets/videos/DarkStar.gif</file>
-        <file alias="DBZ.gif">assets/videos/DBZ.gif</file>
+        <file alias="arukai.gif">assets/videos/arukai.gif</file>
+        <file alias="kemo.gif">assets/videos/kemo.gif</file>
         <file alias="Earth.gif">assets/videos/Earth.gif</file>
         <file alias="Jupiter.gif">assets/videos/Jupiter.gif</file>
         <file alias="SpaceDebrie280.gif">assets/videos/SpaceDebrie280.gif</file>
-        <file alias="volleyball.gif">assets/videos/volleyball.gif</file>
+        <file alias="papapa.gif">assets/videos/papapa.gif</file>
+        <file alias="yeensquare.gif">assets/videos/yeensquare.gif</file>
     </qresource>
     <qresource prefix="/icons/location">
         <file alias="nolock.png">assets/icons/location/nolock.png</file>
